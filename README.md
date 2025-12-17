@@ -1,8 +1,8 @@
 # Hi there, I'm Larissa Dias! 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Larissa%20Dias&fontSize=90" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Larissa+Dias;UFSCar+Student;Data+Enthusiast" alt="Typing SVG" />
+</p>
 
 ### 🎓 About Me
 - 🏫 Student at **UFSCar** (Federal University of São Carlos).
@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaDias-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaDias-S&show_icons=true&theme=dracula&rank_icon=github&display_format=rows" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaDias-S&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
