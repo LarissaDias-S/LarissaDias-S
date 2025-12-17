@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaDias-S&show_icons=true&theme=dracula&rank_icon=github&display_format=rows" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaDias-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaDias-S&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
@@ -41,10 +41,6 @@
 </p>
 
 <br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LarissaDias-S&label=Profile%20views&color=0e75b6&style=flat" alt="LarissaDias-S" />
-</div>
 
 <!---
 LarissaDias-S/LarissaDias-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
