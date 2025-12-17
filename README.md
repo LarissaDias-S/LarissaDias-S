@@ -1,7 +1,7 @@
 # Hi there, I'm Larissa Dias! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Larissa+Dias;UFSCar+Student;Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Larissa+Dias;UFSCar+Student;Data+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🎓 About Me
