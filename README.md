@@ -43,10 +43,5 @@
   </a>
 </p>
 
-<br />
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LarissaDias-S&label=Terminal%20Views&color=00F2FF&style=flat" alt="LarissaDias-S" />
+<br />  <img src="https://komarev.com/ghpvc/?username=LarissaDias-S&label=Terminal%20Views&color=00F2FF&style=flat" alt="LarissaDias-S" />
 </div>
